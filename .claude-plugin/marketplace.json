@@ -1,0 +1,14 @@
+{
+  "name": "claude-agentify",
+  "owner": {
+    "name": "0xMH"
+  },
+  "plugins": [
+    {
+      "name": "agentify",
+      "description": "Scan a project and generate tailored Claude Code subagent files for it",
+      "source": "./",
+      "featured": true
+    }
+  ]
+}

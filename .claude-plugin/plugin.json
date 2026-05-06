@@ -1,0 +1,8 @@
+{
+  "name": "agentify",
+  "description": "Scan a project and generate tailored Claude Code subagent files for it. Mirrors the validation rules and authoring discipline of Claude Code's own AGENT_CREATION_SYSTEM_PROMPT.",
+  "version": "1.0.0",
+  "author": {
+    "name": "claude-agentify contributors"
+  }
+}
